@@ -2,7 +2,7 @@
 主要整编中文安那其主义著作，Anti-Copyright  
 在 Twitter 上关注我们：https://twitter.com/wanmin_books  
 在 Facebook 上关注我们：https://www.facebook.com/profile.php?id=100094708656094  
-在 Mastodon 上关注我们：https://kolektiva.social/@wanminbooks
+在 Mastodon 上关注我们：https://kolektiva.social/@wanminbooks  
 在 a.nti.social 上关注我们：https://a.nti.social/users/wanmin-books
 ## 关于
 我们的主要职务是整编中外安那其主义著作的中译本，并在网络上以无版权的方式公开释出，市面上已无剩余的绝版资源是我们优先处理的对象。  
